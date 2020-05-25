@@ -3,7 +3,7 @@
 // @namespace    Konecos
 // @version      0.1
 // @description  目前功能: 自动查询未做题的数量
-// @author       You
+// @author       Konecos
 // @match        http://hw-neusoft-edu-cn.portal.neutech.com.cn/hw/course/courselist.do
 // @match        http://hw.neusoft.edu.cn/hw/course/courselist.do
 // @grant        none
